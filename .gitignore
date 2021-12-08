@@ -1,0 +1,5 @@
+/target
+*.class
+*.properties
+persistence.xml
+.settings
